@@ -23,7 +23,7 @@ A Proxmox VE lab on a Dell OptiPlex running the services a small IT department w
 | [Active Directory Lab](https://github.com/avalletech/active-directory-lab) | Domain controller built in Hyper-V with AD DS, DNS, and DHCP; domain joined client, OUs, and Group Policy |
 | [Network Topology Lab](https://github.com/avalletech/network-topology-lab) | Multi subnet network in Cisco Packet Tracer with VLANs, inter VLAN routing, and OSPF/RIP |
 | [Wireshark Traffic Analysis](https://github.com/avalletech/wireshark-traffic-analysis) | Packet captures and analysis with Wireshark, tcpdump, and Nmap |
-| [Apache Web Server Lab](https://github.com/avalletech/apache-webserver-lab) | Apache setup with virtual hosts, directory permissions, and basic authentication |
+| [Apache Web Server on AWS](https://github.com/avalletech/apache-webserver-lab) | Apache on an AWS EC2 Ubuntu instance with a virtual host, custom 404 page, mod_rewrite, and access logging |
 | [Python Scripts](https://github.com/avalletech/python-scripts) | Automation I actually use: file organizer, startup launcher, subnet calculator |
 
 Android apps in Java: [Compass](https://github.com/avalletech/android-compass) · [Stopwatch](https://github.com/avalletech/android-stopwatch) · [Shake](https://github.com/avalletech/android-shake) · [Billiards](https://github.com/avalletech/android-billiards) · [BeeFlowers](https://github.com/avalletech/android-beeflowers) · [Fibonacci](https://github.com/avalletech/android-fibonacci)
@@ -44,4 +44,4 @@ Android apps in Java: [Compass](https://github.com/avalletech/android-compass) �
 
 ## 📫 Contact
 
-[Portfolio](https://avalletech.github.io) · [LinkedIn](https://www.linkedin.com/in/avalletech/) · [Email](mailto:avalle2821@icloud.com)
+[Portfolio](https://avalletech.github.io) · [LinkedIn](https://www.linkedin.com/in/avalletech/)
